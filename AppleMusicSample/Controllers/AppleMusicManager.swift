@@ -38,7 +38,7 @@ class AppleMusicManager {
     func fetchDeveloperToken() -> String? {
         
         // MARK: ADAPT: YOU MUST IMPLEMENT THIS METHOD
-        let developerAuthenticationToken: String? = nil
+        let developerAuthenticationToken: String? = "b'eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6IkdWWUFCNTQ1UTcifQ.eyJpc3MiOiJOQjI1OVQ0VVc3IiwiZXhwIjoxNTY1OTg3MjIzLCJpYXQiOjE1NjU5NDQwMjN9.wiKgmJUr9e7zu7c1DLfrCvfXgCts85AI0w8RBoklCZqWMTmf17Qe6vr1sGYpgs5rKD8Al6cPmAFVEcJVR9C9hw'"
         return developerAuthenticationToken
     }
     
